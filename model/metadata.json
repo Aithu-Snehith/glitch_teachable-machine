@@ -1,0 +1,10 @@
+{
+  "tfjsVersion": "1.3.1",
+  "tmVersion": "2.1.2",
+  "packageVersion": "0.8.4",
+  "packageName": "@teachablemachine/image",
+  "timeStamp": "2020-03-04T09:59:39.058Z",
+  "userMetadata": {},
+  "modelName": "gesture_rec",
+  "labels": ["Class 1", "Class 2", "Class 3", "Class 4", "Class 5", "empty"]
+}
